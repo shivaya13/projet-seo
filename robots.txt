@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shivaya13.github.io/yogall/sitemap.xml
